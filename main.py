@@ -17,10 +17,10 @@ delta = {("qA","a"):"qB",
         ("qG","b"):"qK", 
         ("qH","a"):"qI", 
         ("qI","a"):"qJ", 
-        ("qJ","a"):"qk"}
+        ("qJ","a"):"qK"}
 
 
-q0, F = "q0", {"q4"}
+q0, F = "qA", {"qK"}
 
 # === Simulación ===
 def run(s):
